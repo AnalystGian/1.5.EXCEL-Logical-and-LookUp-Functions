@@ -9,10 +9,12 @@ data analytics capabilities!
 3. Understand how lookup functions can be used to categorise data.
 4. Solve a variety of problems using lookup functions to match data from different sources.
 
-## The Excel file includes 3 sheets:
-1. Raw data
-2. Step by step process
-3. Cleaned data
+## The Excel file includes 5 sheets:
+1. Inventory Raw data
+2. Quote Raw data
+3. Step by step process
+4. Inventory Cleaned data
+5. Quote Cleaned data
 
 ## Below are the skills/tools shown in this project:
 1. LOGICAL FUNCTIONS (AND, OR, IF, IFERROR)
